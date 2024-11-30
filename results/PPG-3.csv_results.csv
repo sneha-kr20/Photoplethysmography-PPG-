@@ -1,0 +1,20 @@
+Feature,Value
+Heart Rate (BPM),15.061452511361582
+Respiratory Rate (breaths/min),12.914920131414977
+Systolic Amplitude,1.0
+SNR,6.211374493166016
+Kurtosis,-0.7063087410935638
+Skewness,-0.15615708742600848
+Irregular Heart Rate,True
+Abnormal Waveform,True
+Mean Heart Rate,"{'mean_heart_rate': np.float64(15.061452511361582), 'heart_rates': array([ 3.65853659,  9.9009901 ,  6.54307525, 24.        ,  7.89473684,
+        8.63309353, 12.98701299, 10.90909091, 28.84615385,  4.44773907,
+        4.65838509,  7.43494424, 46.51162791, 10.30927835, 22.1402214 ,
+       43.16546763,  7.53768844,  8.39160839, 52.63157895,  7.71208226,
+       12.98701299, 12.79317697,  4.66562986, 21.42857143,  6.34249471,
+        5.06756757])}"
+Mean Respiratory Rate,12.914920131414977
+Mean Systolic Amplitude,1.0
+Arrhythmia Detected,Yes
+Segment Time Start,17.42
+Segment Time End,166.01
